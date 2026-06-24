@@ -1,0 +1,9 @@
+tensorflow==2.13.0
+numpy==1.24.3
+pandas
+scikit-learn
+matplotlib
+pillow
+# Optional — only needed if you download the dataset via the Roboflow SDK
+# (the README also shows a curl-based download that needs neither):
+roboflow
